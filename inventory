@@ -1,0 +1,2 @@
+#lab worker 1 hostname
+wordpress ansible_host=ip-172-31-40-108
